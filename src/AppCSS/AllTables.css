@@ -1,0 +1,99 @@
+
+.league-table table{
+    /*margin: 20px auto;*/
+    border-collapse: collapse;
+    margin-top: -80px;
+    margin-left: 470px;
+}
+.league-table{
+    margin: 0px 0% 30px 0%;
+
+}
+
+
+th {
+    background-color: #026265;
+    color: white;
+    padding: 20px;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 14px;
+
+}
+th, td {
+    border-bottom: 1px solid #ddd;
+    /*padding: 15px;*/
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 20px;
+
+}
+td {
+    padding-bottom: 15px;
+    padding-top: 15px;
+
+}
+
+.wpos{
+    text-align: center;
+    /*font-size:25px;*/
+
+}
+.wpos td{
+    color: rgb(201, 156, 6);
+    background-color: #ffffff;
+
+
+}
+
+
+.wpos:hover{
+    background-color: rgba(215, 213, 213, 0.1);
+
+}
+.wpos:hover.td{
+    color: rgb(79, 79, 66);
+
+}
+.left {
+    padding-right: 250px;
+
+}
+.renderOption{
+    text-align: center;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 14px;
+
+}
+.renderOption td{
+    color: rgb(201, 174, 6);
+    font-family: "Lucida Console", "Courier New", monospace;
+
+
+
+}
+
+.renderOption:hover{
+    background-color: rgba(215, 213, 213, 0.1);
+    font-family: "Lucida Console", "Courier New", monospace;
+
+}
+.renderOption:hover.td{
+    color: rgb(79, 79, 66);
+    font-family: "Lucida Console", "Courier New", monospace;
+    padding-right: 250px;
+}
+.col td{
+    background-color: #ffffff;
+}
+.tables td{
+    color:black;
+    font-weight: bold;
+    margin-top: -120px;
+
+}
+.liveMatches{
+    margin-top: 100px;
+    margin-left: 600px;
+
+}
+
